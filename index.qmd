@@ -3,16 +3,30 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: 20250831-IMG_3267.jgp
 ---
 
 :::{#me}
 
 ## Goals
+To work in extension services and teach environmental science to K-12 students!
+(Save the world)
 
 ## Education
+- BS in Sustainable Agriculture and Food Systems
+- Pending MS in Natural Resources and the Environment
 
 ## Experience
+- Working as a graduate research assistant since August 2024
+- Worked as a community assistant from August 2023 to August 2025
+- Worked as a farm hand from June 2023 to August 2023
+- Worked as an academic mentor at UNH's Center For Academic Resources from August 2021 to May 2024
+
+## Personal Interests
+- Outdoor activities including running, biking, hiking, and swimming
+- Astrology
+- Cooking and baking 
+- Ladybugs
 
 :::
 
