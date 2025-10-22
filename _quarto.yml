@@ -15,7 +15,7 @@ website:
       - icon: github
         href: https://github.com/gretchenbahmueller/MyWebsite.git 
       - icon: linkedin
-        href:
+        href: https://linkedin.com/in/gretchen-bahmueller-0b5a7b278
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2023, Gretchen Bahmueller"
