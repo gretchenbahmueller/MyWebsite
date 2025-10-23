@@ -27,6 +27,7 @@ To work in extension services and teach environmental science to K-12 students!
 - Astrology
 - Cooking and baking 
 - Ladybugs
+- Love Coding in R
 
 :::
 
